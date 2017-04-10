@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 78082889,
+      "firstName": "Ramiro",
+      "lastName": "Howe",
+      "email": "Isaac82@yahoo.com"
+    },
+    {
+      "id": 43222844,
+      "firstName": "Jaiden",
+      "lastName": "Koepp",
+      "email": "Mafalda.Schuppe22@hotmail.com"
+    },
+    {
+      "id": 62018236,
+      "firstName": "Fred",
+      "lastName": "Friesen",
+      "email": "Cesar.Bradtke@hotmail.com"
+    },
+    {
+      "id": 14698274,
+      "firstName": "Green",
+      "lastName": "Corkery",
+      "email": "Rigoberto_Ernser@hotmail.com"
+    }
+  ]
+}
